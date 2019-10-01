@@ -16,6 +16,7 @@ cmstp_info = {
 	"Admin": False,
 	"Function Name": "cmstp",
 	"Function Payload": True,
+	"Format": "cmd"
 }
 
 

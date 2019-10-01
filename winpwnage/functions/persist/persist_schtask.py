@@ -14,6 +14,7 @@ schtask_info = {
 	"Admin": True,
 	"Function Name": "schtask",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

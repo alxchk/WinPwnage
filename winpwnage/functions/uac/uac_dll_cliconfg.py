@@ -13,6 +13,7 @@ cliconfg_info = {
 	"Admin": False,
 	"Function Name": "cliconfg",
 	"Function Payload": True,
+	"Format": "dll"
 }
 
 

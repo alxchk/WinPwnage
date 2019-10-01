@@ -10,6 +10,7 @@ startup_files_info = {
 	"Admin": False,
 	"Function Name": "startup_files",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

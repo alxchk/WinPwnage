@@ -16,6 +16,7 @@ cortana_appx_info = {
 	"Admin": False,
 	"Function Name": "persistence_cortana_appx",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 def find_cortana():

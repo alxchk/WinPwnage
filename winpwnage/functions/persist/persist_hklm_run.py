@@ -10,6 +10,7 @@ hklmrun_info = {
 	"Admin": True,
 	"Function Name": "hklm_run",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

@@ -10,6 +10,7 @@ hkcurun_info = {
 	"Admin": False,
 	"Function Name": "hkcu_run",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

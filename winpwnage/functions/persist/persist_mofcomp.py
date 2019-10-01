@@ -17,6 +17,7 @@ mofcomp_info = {
 	"Admin": True,
 	"Function Name": "persist_mofcomp",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

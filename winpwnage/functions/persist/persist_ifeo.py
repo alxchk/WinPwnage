@@ -10,6 +10,7 @@ ifeo_info = {
 	"Admin": True,
 	"Function Name": "ifeo",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

@@ -12,6 +12,7 @@ eventviewer_info = {
 	"Admin": False,
 	"Function Name": "eventvwr",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

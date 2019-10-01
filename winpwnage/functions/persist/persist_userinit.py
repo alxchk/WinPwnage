@@ -11,6 +11,7 @@ userinit_info = {
 	"Admin": True,
 	"Function Name": "userinit",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

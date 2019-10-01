@@ -14,6 +14,7 @@ wsreset_info = {
 	"Admin": False,
 	"Function Name": "uac_wsreset",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

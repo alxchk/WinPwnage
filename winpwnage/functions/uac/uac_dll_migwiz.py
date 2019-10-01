@@ -13,6 +13,7 @@ migwiz_info = {
 	"Admin": False,
 	"Function Name": "migwiz",
 	"Function Payload": True,
+	"Format": "dll"
 }
 
 

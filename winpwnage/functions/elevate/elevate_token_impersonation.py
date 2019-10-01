@@ -13,6 +13,7 @@ tokenimpersonation_info = {
 	"Admin": True,
 	"Function Name": "elevate_token_impersonation",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

@@ -12,6 +12,7 @@ runas_info = {
 	"Admin": False,
 	"Function Name": "runas",
 	"Function Payload": True,
+	"Format": "exe""
 }
 
 

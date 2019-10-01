@@ -15,6 +15,7 @@ mock_info = {
 	"Admin": False,
 	"Function Name": "uac_mockdir",
 	"Function Payload": True,
+	"Format": "dll"
 }
 
 # Manual cleaning:

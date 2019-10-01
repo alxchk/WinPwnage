@@ -12,6 +12,7 @@ compmgmtlauncher_info = {
 	"Admin": False,
 	"Function Name": "compmgmtlauncher",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

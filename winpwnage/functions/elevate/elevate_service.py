@@ -12,6 +12,7 @@ elevate_service_info = {
 	"Admin": True,
 	"Function Name": "elevate_service",
 	"Function Payload": True,
+	"Format": "exe""
 }
 
 

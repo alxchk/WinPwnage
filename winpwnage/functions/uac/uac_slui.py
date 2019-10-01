@@ -12,6 +12,7 @@ slui_info = {
 	"Admin": False,
 	"Function Name": "slui",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

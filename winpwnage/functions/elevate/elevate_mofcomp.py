@@ -14,6 +14,7 @@ elevate_mofcomp_info = {
 	"Admin": True,
 	"Function Name": "elevate_mofcomp",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

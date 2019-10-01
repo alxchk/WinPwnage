@@ -12,6 +12,7 @@ sdcltisolatedcommand_info = {
 	"Admin": False,
 	"Function Name": "sdclt_isolatedcommand",
 	"Function Payload" : True,
+	"Format": "exe"
 }
 
 

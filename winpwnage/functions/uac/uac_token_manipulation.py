@@ -13,6 +13,7 @@ tokenmanipulation_info = {
 	"Admin": False,
 	"Function Name": "tokenmanipulation",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

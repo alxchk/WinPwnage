@@ -14,6 +14,7 @@ sdclt_info = {
 	"Admin": False,
 	"Function Name": "sdclt_uacbypass",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

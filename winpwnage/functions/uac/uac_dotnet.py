@@ -15,6 +15,7 @@ dotnet_info = {
 	"Admin": False,
 	"Function Name": "dotnet_uacbypass",
 	"Function Payload": True,
+	"Format": "dll"
 }
 
 guid_array = []

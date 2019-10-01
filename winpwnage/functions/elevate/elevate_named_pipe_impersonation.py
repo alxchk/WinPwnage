@@ -13,6 +13,7 @@ namedpipeimpersonation_info = {
 	"Admin": True,
 	"Function Name": "named_pipe_impersonation",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

@@ -13,6 +13,7 @@ mcx2prov_info = {
 	"Admin": False,
 	"Function Name": "mcx2prov",
 	"Function Payload": True,
+	"Format": "dll"
 }
 
 

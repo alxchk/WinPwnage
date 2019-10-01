@@ -12,6 +12,7 @@ sdcltcontrol_info = {
 	"Admin": False,
 	"Function Name": "sdclt_control",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

@@ -12,6 +12,7 @@ computerdefaults_info = {
 	"Admin": False,
 	"Function Name": "computerdefaults",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

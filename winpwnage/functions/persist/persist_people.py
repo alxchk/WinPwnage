@@ -16,6 +16,7 @@ people_appx_info = {
 	"Admin": False,
 	"Function Name": "persistence_people_appx",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 def find_people():

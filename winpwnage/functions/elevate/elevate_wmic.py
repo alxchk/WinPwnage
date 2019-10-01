@@ -13,6 +13,7 @@ elevate_wmic_info = {
 	"Admin": True,
 	"Function Name": "elevate_wmic",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

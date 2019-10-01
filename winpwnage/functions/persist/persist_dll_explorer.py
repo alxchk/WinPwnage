@@ -13,6 +13,7 @@ explorer_info = {
 	"Admin": False,
 	"Function Name": "fax_dll",
 	"Function Payload": True,
+	"Format": "dll"
 }
 
 

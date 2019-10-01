@@ -16,6 +16,7 @@ bitsadmin_info = {
 	"Admin": True,
 	"Function Name": "persist_bitsadmin",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

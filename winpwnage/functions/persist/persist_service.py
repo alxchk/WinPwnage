@@ -12,6 +12,7 @@ persist_service_info = {
 	"Admin": True,
 	"Function Name": "persist_service",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

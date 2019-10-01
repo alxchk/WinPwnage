@@ -15,6 +15,7 @@ elevate_schtasks_info = {
 	"Admin": True,
 	"Function Name": "elevate_schtasks",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 def elevate_schtasks(payload):

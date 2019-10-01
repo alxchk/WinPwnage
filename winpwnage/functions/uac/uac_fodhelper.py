@@ -12,6 +12,7 @@ fodhelper_info = {
 	"Admin": False,
 	"Function Name": "fodhelper",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

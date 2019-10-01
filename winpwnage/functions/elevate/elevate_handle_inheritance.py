@@ -14,6 +14,7 @@ handleinheritance_info = {
 	"Admin": True,
 	"Function Name": "elevate_handle_inheritance",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

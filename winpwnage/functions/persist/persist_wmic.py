@@ -12,6 +12,7 @@ wmic_info = {
 	"Admin": True,
 	"Function Name": "persist_wmic",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

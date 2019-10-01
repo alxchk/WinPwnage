@@ -13,6 +13,7 @@ sysprep_info = {
 	"Admin": False,
 	"Function Name": "sysprep",
 	"Function Payload": True,
+	"Format": "dll"
 }
 
 

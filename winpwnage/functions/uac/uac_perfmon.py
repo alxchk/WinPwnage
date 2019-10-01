@@ -14,6 +14,7 @@ perfmon_info = {
 	"Admin": False,
 	"Function Name": "perfmon",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 

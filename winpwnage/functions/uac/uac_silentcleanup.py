@@ -12,6 +12,7 @@ silentcleanup_info = {
 	"Admin": False,
 	"Function Name": "silentcleanup",
 	"Function Payload": True,
+	"Format": "exe"
 }
 
 
